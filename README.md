@@ -1,1 +1,1 @@
-# Bioinfromatica_-R
+# Bioinformatica_-R
